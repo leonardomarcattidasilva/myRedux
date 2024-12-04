@@ -1,0 +1,19 @@
+.button {
+  margin-right: 15px;  
+}
+
+.hideShow {
+   margin-bottom: 15px;
+}
+
+.display {
+   height: 5%;
+}
+
+.show {
+   opacity: 1;
+}
+
+.hide {
+   opacity: 0;
+}
